@@ -1,0 +1,3 @@
+- A battle feild bases Zoning system
+- A form of "extra" Deck
+- A focus on Yugioh like gameplay with less dominate control and slightly slower gmae play
