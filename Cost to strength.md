@@ -1,6 +1,6 @@
-# Vinila Cars Strength Guide
+# Vanilla Cards Strength Guide
 
-| Vinila Card Cost| Heath Points |   Attack Points | 
+| Vanilla Card Cost| Heath Points |   Attack Points | 
 | -------- | -------- | -------- |
 | 2 | 3 |  3 |  
 | 3 | 6 |  6 |
