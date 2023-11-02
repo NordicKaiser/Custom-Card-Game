@@ -1,12 +1,4 @@
-2 cost - 3h 3a
-3 cost - 6h 6a
-4 cost - 8h 8a
-5 cost - 10h 10a
-6 cost - 12h 12a
-7 cost - 14h 14a
-8 cost - 16h 16a
-9 cost - 18h 18a
-10 cost - 20h 20a
+# Vinila Cars Strength Guide
 
 | Vinila Card Cost| Heath Points |   Attack Points | 
 | -------- | -------- | -------- |
