@@ -1,6 +1,6 @@
 # Vanilla Cards Strength Guide
 
-| Vanilla Card Cost| Heath Points |   Attack Points |    Total Points | 
+| Vanilla Card Cost| Heath Points |   Attack Points |  Total Points | 
 | -------- | -------- | -------- | -------- |
 | 2 | 3 |  3 |    6 | 
 | 3 | 6 |  6 |  12 | 
