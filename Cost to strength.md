@@ -28,6 +28,11 @@ All following tables are lose recamandtions pulled form an as feel free to chang
 | Splash | 5 |
 | Titian | 7 |
 | Supression | 5 |
+| Mobile | 2 |
+| Protector | 5 |
+| Bodyguard | 3/4 |
+| Ranged | 6 |
+| Destructive | 5 |
 
 # Action to Stat Point Gain
 
