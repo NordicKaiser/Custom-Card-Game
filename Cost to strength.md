@@ -33,7 +33,7 @@ All following tables are lose recamandtions pulled form an as feel free to chang
 | Bodyguard | 3/4 |
 | Ranged | 6 |
 | Destructive | 5 |
-| Workforce | 2 |
+| Workforce | 2 | 
 
 # Action to Stat Point Gain
 
