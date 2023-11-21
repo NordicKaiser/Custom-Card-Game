@@ -19,12 +19,12 @@
 ### Removal/Interaction
 
 - Action Control
-  -The limiting of what a card may do (Target Creature can not make Action Actions this turn) 
+  - The limiting of what a card may do (Target Creature can not make Action Actions this turn) 
 
 ### Card advantage
 
 - Excavate X for BLANK
-  -Reveal the  top X cards of your deck add any BLANK from the revealed cards to hand send the rest to grave  
+  - Reveal the  top X cards of your deck add any BLANK from the revealed cards to hand send the rest to grave  
 
 ### Keywords
 
